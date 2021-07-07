@@ -24,4 +24,4 @@ This is ToDo Page where user can write thay tasks. User also delete this tasks.
 ## Setting Page
 ![Setting Page](https://github.com/parth-chovatiya/to-do-webapplication/blob/main/screenshots/settings.png?raw=true)
 
-This is setting Page where user can upload their photo as well as user can change their details.
+This is setting Page where user can upload their photo as well as user can update their profile details.
